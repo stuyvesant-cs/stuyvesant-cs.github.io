@@ -13,6 +13,12 @@ faculty:
         ,
         [Stanky,"https://xkcd.com"]
     ]
+resources:
+    [
+        [Racket, "https://racket-lang.org"]
+        ,
+        [NetLogo, "https://ccl.northwestern.edu/netlogo/"]
+    ]
 ---
 
 learn cs woo! is the best

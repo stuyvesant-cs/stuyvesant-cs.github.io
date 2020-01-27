@@ -18,8 +18,20 @@ layout: default
       <li>
         <a target="_blank"
            rel="noopener noreferrer"
-           href= {{facmember[1]}} >
-          {{facmember[0]}}
+           href= {{ facmember[1] }} >
+          {{ facmember[0] }}
+        </a>
+      </li>
+      {%- endfor -%}
+    </ul>
+    <h2>Resources</h2>
+    <ul>
+      {%- for res in page.resources -%}
+      <li>
+        <a target="_blank"
+           rel="noopener noreferrer"
+           href= {{ res[1] }} >
+          {{ res[0] }}
         </a>
       </li>
       {%- endfor -%}
