@@ -1,0 +1,3 @@
+[submodule "courses/graphics-dw"]
+	path = courses/graphics-dw
+	url = git@github.com:stuyvesant-cs/graphics-dw.git
