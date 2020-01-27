@@ -1,7 +1,11 @@
+- title: StuyCS
+  url: /index/
 - title: About
-  url: /about.html
+  url: /about/
 - title: Courses
-  url: courses.html
+  url: /courses
   sublinks:
     - title: Computer Graphics
-      url:
+      url: /courses/graphics/
+    - title: Intro to Computer Science I
+      url: /courses/intro0/
