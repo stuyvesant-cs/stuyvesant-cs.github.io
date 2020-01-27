@@ -1,11 +1,13 @@
 - title: StuyCS
-  url: /index/
+  url: /index
 - title: About
-  url: /about/
+  url: /about
 - title: Courses
   url: /courses
   sublinks:
     - title: Computer Graphics
-      url: /courses/graphics/
+      url: /courses/graphics
     - title: Intro to Computer Science I
-      url: /courses/intro0/
+      url: /courses/intro0
+    - title: Intro to Computer Science II
+      url: /courses/intro1
