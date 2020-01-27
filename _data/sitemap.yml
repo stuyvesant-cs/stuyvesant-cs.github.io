@@ -5,9 +5,17 @@
 - title: Courses
   url: /courses
   sublinks:
-    - title: Computer Graphics
-      url: /courses/graphics
     - title: Intro to Computer Science I
       url: /courses/intro0
     - title: Intro to Computer Science II
       url: /courses/intro1
+    - title: Advanced Placement Computer Science A
+      url: /courses/apcs
+    - title: Systems Level Programming
+      url: /courses/systems
+    - title: Computer Graphics
+      url: /courses/graphics
+    - title: Artificial Intelligence
+      url: /courses/ai
+    - title: Software Development
+      url: /courses/doftdev
