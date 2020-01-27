@@ -1,0 +1,7 @@
+- title: About
+  url: /about.html
+- title: Courses
+  url: courses.html
+  sublinks:
+    - title: Computer Graphics
+      url:

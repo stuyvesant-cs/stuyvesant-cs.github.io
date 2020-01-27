@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Resources"
-permalink: /resources/
+title: "Faculty"
+permalink: /faculty/
 ---
 
-BIG BRAIN!
+cool peeps
