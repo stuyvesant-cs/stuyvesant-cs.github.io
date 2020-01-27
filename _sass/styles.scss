@@ -1,6 +1,9 @@
+body {
+    background-color: lightsteelblue;
+}
 
 nav {
-    background-color: gray;
+    background-color: darkcyan;
 }
 
 nav ul {
@@ -9,9 +12,17 @@ nav ul {
 nav li {
     line-height: 30px;
 }
+
+navbar-nav > li {
+    color: cornsilk;
+}
+
 nav a {
     text-decoration: none;
+    color: cornsilk;
 }
+
+
 nav li.active a {
     color: #ffffff;
 }
