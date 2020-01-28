@@ -19,9 +19,14 @@ faculty:
     ]
 resources:
     [
+        [How to CompSci@Stuy,
+         "https://bit.ly/h2csstuy"]
+        ,
         [Racket, "https://racket-lang.org"]
         ,
         [NetLogo, "https://ccl.northwestern.edu/netlogo/"]
+        [Online Racket interpreter,
+         "https://www.wescheme.org/openEditor"]
     ]
 ---
 

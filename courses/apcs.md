@@ -15,9 +15,17 @@ faculty:
     ]
 resources: #empty lists will break liquid
     [
-        [foo, "https://bit.ly/h2csstuy"]
+        [How to CompSci@Stuy,
+         "https://bit.ly/h2csstuy"]
         ,
-        [foo, "https://bit.ly/h2csstuy"]
+        [How to Think Like a Computer Scientist,
+         "https://greenteapress.com/wp/think-java/"]
+        ,
+        [CodingBat,
+         "https://codingbat.com/java"]
+        ,
+        [UWaterloo Visualizer,
+         "https://cscircles.cemc.uwaterloo.ca//java_visualize/"]
     ]
 ---
 

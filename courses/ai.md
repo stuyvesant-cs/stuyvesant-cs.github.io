@@ -11,9 +11,11 @@ faculty:
     ]
 resources: #empty lists will break liquid
     [
-        [foo, "https://bit.ly/h2csstuy"]
+        [How to CompSci@Stuy,
+         "https://bit.ly/h2csstuy"]
         ,
-        [foo, "https://bit.ly/h2csstuy"]
+        [textbook resources page,
+        "http://aima.cs.berkeley.edu/instructors.html"]
     ]
 ---
 

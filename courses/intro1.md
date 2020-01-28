@@ -21,9 +21,29 @@ faculty:
     ]
 resources: #empty lists will break liquid
     [
-        [foo, "https://bit.ly/h2csstuy"]
+        [How to CompSci@Stuy,
+         "https://bit.ly/h2csstuy"]
         ,
-        [foo, "https://bit.ly/h2csstuy"]
+        [Python,
+         "https://www.python.org/"]
+         ,
+        [TextMate (mac text editor),
+         "https://macromates.com/"]
+         ,
+        [Brackets (win/mac/linux text editor),
+         "http://brackets.io/"]
+         ,
+        [GEdit (win/linux text editor),
+         "https://gedit.en.softonic.com/"]
+         ,
+        [Notepad++ (win text editor),
+         "https://notepad-plus-plus.org/"]
+         ,
+        [puTTY (lightweight SSH client for win),
+         "https://www.putty.org/"]
+         ,
+        [Repl.it,
+         "https://repl.it/"]
     ]
 ---
 
