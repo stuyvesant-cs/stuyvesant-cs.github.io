@@ -15,33 +15,15 @@ faculty:
         ,
         [Holmes, "https://xkcd.com"]
         ,
-        [Konstantinovich, "https://xkcd.com"]
-        ,
         [Mouzakitis, "https://xkcd.com"]
         ,
         [Mykolyk, "https://xkcd.com"]
-        ,
-        [Platek, "https://xkcd.com"]
     ]
-resources:
+resources: #empty lists will break liquid
     [
-        [, ""]
+        [foo, "https://bit.ly/h2csstuy"]
         ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
+        [foo, "https://bit.ly/h2csstuy"]
     ]
 ---
 

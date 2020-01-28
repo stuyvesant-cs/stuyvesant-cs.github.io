@@ -11,25 +11,11 @@ faculty:
     [
         [Dyrland-Weaver, "https://xkcd.com"]
     ]
-resources:
+resources: #empty lists will break liquid
     [
-        [, ""]
+        [foo, "https://bit.ly/h2csstuy"]
         ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
-        ,
-        [, ""]
+        [foo, "https://bit.ly/h2csstuy"]
     ]
 ---
 

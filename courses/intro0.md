@@ -7,11 +7,15 @@ title: "Introduction to Computer Science (1 term)"
 permalink: /courses/intro0
 faculty:
     [
-        [Captain Woo-Hah, "https://xkcd.com"]
+        [Brooks, "https://xkcd.com"]
         ,
-        [Dr. Jeebus, "https://xkcd.com"]
+        [Dyrland-Weaver, "https://xkcd.com"]
         ,
-        [Stanky,"https://xkcd.com"]
+        [Holmes, "https://xkcd.com"]
+        ,
+        [Mouzakitis, "https://xkcd.com"]
+        ,
+        [Mykolyk, "https://xkcd.com"]
     ]
 resources:
     [
