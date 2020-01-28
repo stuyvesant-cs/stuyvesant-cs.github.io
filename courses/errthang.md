@@ -5,11 +5,23 @@
 # the is a template for creating new course MD files
 
 layout: course
-title: "Software Development"
-permalink: /courses/softdev
+title: "_____"
+permalink: /courses/_____
 faculty:
     [
+        [Brooks, "https://xkcd.com"]
+        ,
+        [Dyrland-Weaver, "https://xkcd.com"]
+        ,
+        [Holmes, "https://xkcd.com"]
+        ,
+        [Konstantinovich, "https://xkcd.com"]
+        ,
+        [Mouzakitis, "https://xkcd.com"]
+        ,
         [Mykolyk, "https://xkcd.com"]
+        ,
+        [Platek, "https://xkcd.com"]
     ]
 resources:
     [

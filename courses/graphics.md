@@ -5,6 +5,30 @@
 layout: course
 title: "Computer Graphics"
 permalink: /courses/graphics
+faculty:
+    [
+        [Dyrland-Weaver, "https://xkcd.com"]
+    ]
+resources:
+    [
+        [, ""]
+        ,
+        [, ""]
+        ,
+        [, ""]
+        ,
+        [, ""]
+        ,
+        [, ""]
+        ,
+        [, ""]
+        ,
+        [, ""]
+        ,
+        [, ""]
+        ,
+        [, ""]
+    ]
 ---
 
 Pictures are pretty
