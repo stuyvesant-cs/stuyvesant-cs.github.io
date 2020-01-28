@@ -7,7 +7,7 @@ title: "Introduction to Computer Science (1 term)"
 permalink: /courses/intro0
 faculty:
     [
-        [Brooks, "https://xkcd.com"]
+        [Brooks, "http://bert.stuy.edu/pbrooks/"]
         ,
         [Dyrland-Weaver, "https://xkcd.com"]
         ,
@@ -25,6 +25,7 @@ resources:
         [Racket, "https://racket-lang.org"]
         ,
         [NetLogo, "https://ccl.northwestern.edu/netlogo/"]
+		,
         [Online Racket interpreter,
          "https://www.wescheme.org/openEditor"]
     ]

@@ -9,7 +9,7 @@ title: "Introduction to Computer Science (2 terms)"
 permalink: /courses/intro1
 faculty:
     [
-        [Brooks, "https://xkcd.com"]
+        [Brooks, "http://bert.stuy.edu/pbrooks/spring2020/materials/intro-year-2/intro-year-2-homepage.htm"]
         ,
         [Dyrland-Weaver, "https://xkcd.com"]
         ,
