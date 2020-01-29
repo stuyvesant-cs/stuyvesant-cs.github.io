@@ -7,7 +7,7 @@ title: "Computer Graphics and Nerd Culture, Part II"
 permalink: /courses/graphics
 faculty:
     [
-        [Dyrland-Weaver, "https://xkcd.com"]
+        [Dyrland-Weaver, "dw"]
     ]
 resources: #empty lists will break liquid
     [
