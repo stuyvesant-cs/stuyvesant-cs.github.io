@@ -2,43 +2,46 @@ body {
     background-color: lightsteelblue;
 }
 
-nav {
+.navbar {
     background-color: darkcyan;
-}
-
-nav ul {
-    list-style-type: none;
-}
-
-nav li {
-    line-height: 30px;
-}
-
-navbar-nav > li {
+    border-color: darkcyan;
     color: cornsilk;
 }
 
-nav a {
-    text-decoration: none;
+.navbar-default
+.navbar-brand {
+    color: cornsilk;
 }
 
-/*
-nav li.active a {
-    color: #ffffff;
-}
-*/
-.navlink {
-    color: cornsilk !important;
+.navbar .nav > li > a {
+    color: cornsilk;
 }
 
-.sublink {
-    color: cornsilk !important;
+.navbar .nav > li > a:hover {
+    color: cornsilk;
+    background-color: #2ea0a0;
 }
 
-.navbar-nav a:hover {
-    background-color: #2ea0a0 !important;
+.navbar .nav > .active > a {
+    background-color: #2ea0a0;
+    color: cornsilk;
 }
 
-.dropdown-menu {
-    background-color: darkcyan;
+
+.navbar-default
+.navbar-nav .open .dropdown-menu>li>a {
+    color:cornsilk;
+}
+
+.navbar-default
+.navbar-nav .open .dropdown-menu>li>a:hover {
+    color: black;
+}
+
+ul.dropdown-menu {
+    background-color: #2ea0a0;
+}
+
+li.dropdown-active {
+    background-color: #2ea0a0;;
 }
