@@ -1,0 +1,13 @@
+faculty:
+  - name: Dyrland-Weaver
+    url: dw
+
+resources:
+  - name: How to CompSci@Stuy
+    url: https://bit.ly/h2csstuy
+  - name: ImageMagick
+    url: http://www.imagemagick.org/script/index.php
+  - name: Homebrew (linux-like package manager for OSX)
+    url: https://brew.sh/
+  - name: XQuartz
+    url: https://www.xquartz.org/index.html
