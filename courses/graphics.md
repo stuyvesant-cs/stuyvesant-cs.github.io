@@ -4,7 +4,7 @@
 
 layout: course_test
 title: "Computer Graphics and Nerd Culture, Part II"
-permalink: /courses/graphics
+permalink: /courses/graphics/
 course: "graphics"
 ---
 
