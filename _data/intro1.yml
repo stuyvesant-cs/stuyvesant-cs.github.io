@@ -1,0 +1,23 @@
+faculty:
+  - name: Brooks
+    url: http://bert.stuy.edu/pbrooks/spring2020/materials/intro-year-2/intro-year-2-homepage.htm
+  - name: Dyrland-Weaver
+    url: https://stuyvesant-cs.github.io/intro1-dw
+
+resources:
+  - name: How to CompSci@Stuy
+    url: https://bit.ly/h2csstuy
+  - name: Python
+    url: https://www.python.org/
+  - name: TextMate (mac text editor)
+    url: https://macromates.com/
+  - name: Brackets (win/mac/linux text editor)
+    url: http://brackets.io/
+  - name: GEdit (win/linux text editor
+    url: https://gedit.en.softonic.com
+  - name: Notepad++ (win text editor)
+    url: https://notepad-plus-plus.org
+  - name: puTTY (lightweight SSH client for win)
+    url: https://www.putty.org/
+  - name: Repl.it
+    url: https://repl.it/

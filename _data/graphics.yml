@@ -1,6 +1,6 @@
 faculty:
   - name: Dyrland-Weaver
-    url: dw
+    url: https://stuyvesant-cs.github.io/graphics-dw/
 
 resources:
   - name: How to CompSci@Stuy

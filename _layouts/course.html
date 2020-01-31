@@ -14,24 +14,24 @@ layout: default
   <div class="post-content">
     <h2>Faculty/Sections:</h2>
     <ul>
-      {%- for facmember in faculty -%}
+      {%- for facmember in site.data[page.course].faculty -%}
       <li>
         <a target="_blank"
            rel="noopener noreferrer"
-           href="{{ facmember[1] }}">
-          {{ facmember[0] }}
+           href="{{ facmember.url }}">
+          {{ facmember.name }}
         </a>
       </li>
       {%- endfor -%}
     </ul>
     <h2>Resources</h2>
     <ul>
-      {%- for res in page.resources -%}
+      {%- for res in site.data[page.course].resources -%}
       <li>
         <a target="_blank"
            rel="noopener noreferrer"
-           href= "{{ res[1] }}">
-          {{ res[0] }}
+           href= "{{ res.url }}">
+          {{ res.name }}
         </a>
       </li>
       {%- endfor -%}
