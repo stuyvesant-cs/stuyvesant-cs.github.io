@@ -1,49 +1,68 @@
+$base-color: lightsteelblue;
+//$navbar-color: #2F3061;
+$navbar-color: #5F5980;
+$navbar-text: #E7DFC6;
+$navbar-active-color: #766C7F;
+$text-color: #012A36;
+$dropdown-highlight: #8F857D;
+
+
 body {
-    background-color: lightsteelblue;
+    background-color: $base-color;
+    color: $text-color;
+    font-size: 1.75em;
 }
 
 .navbar {
-    background-color: darkcyan;
-    border-color: darkcyan;
-    color: cornsilk;
+    background-color: $navbar-color;
+    border-color: $navbar-color;
+    color: $navbar-text;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: $navbar-text;
 }
 
 .navbar-default
 .navbar-brand {
-    color: cornsilk;
+    color: $navbar-text;
 }
 
 .navbar .nav > li > a {
-    color: cornsilk;
+    color: $navbar-text;
 }
 
 .navbar .nav > li > a:hover {
-    color: cornsilk;
-    background-color: #2ea0a0;
+    color: $navbar-text;
+    background-color: $navbar-active-color;
 }
 
 .navbar .nav > .active > a {
-    background-color: #2ea0a0;
-    color: cornsilk;
+    background-color: $navbar-active-color;
+    color: $navbar-text;
 }
 
 
 .navbar-default
 .navbar-nav .open .dropdown-menu>li>a {
-    color:cornsilk;
+    color: $navbar-text;
 }
 
 .navbar-default
 .navbar-nav .open .dropdown-menu>li>a:hover {
-    color: black;
+    //color: black;
+    background-color: $dropdown-highlight;
 }
 
 ul.dropdown-menu {
-    background-color: #2ea0a0;
+    background-color: $navbar-active-color;
+    //color: $dropdown-highlight;
 }
 
 li.dropdown-active {
-    background-color: #2ea0a0;;
+    background-color: $navbar-active-color;
+    //color: $dropdown-highlight;
 }
 
 .assignment_link {
