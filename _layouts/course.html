@@ -33,7 +33,7 @@ layout: default
           {%- for subres in res.sublinks -%}
           <li>
             {% if subres.info %}
-            {{ subres.info | escape g}}
+            {{ subres.info }}
             {% else %}
             <a target="_blank"
                rel="noopener noreferrer"

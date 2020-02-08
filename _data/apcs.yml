@@ -1,0 +1,17 @@
+faculty:
+  - name: Platek
+    url: #
+  - name: Chew
+    url: #
+
+resources:
+  - name: How to CompSci@Stuy
+    url: https://bit.ly/h2csstuy
+  - name: "Computer Science: An Interdisciplinary Approach (online textbook)"
+    url: https://introcs.cs.princeton.edu/java/home/
+  - name: How to Think Like a Computer Scientist
+    url: https://greenteapress.com/wp/think-java/
+  - name: CodingBat
+    url: https://codingbat.com/java
+  - name: UWaterloo Visualizer
+    url: https://cscircles.cemc.uwaterloo.ca//java_visualize/

@@ -7,26 +7,9 @@
 layout: course
 title: "AP Computer Science AB"
 permalink: /courses/apcs
-faculty:
-    [
-        [Chew, "https://xkcd.com"]
-        ,
-        [Platek, "https://xkcd.com"]
-    ]
-resources: #empty lists will break liquid
-    [
-        [How to CompSci@Stuy,
-         "https://bit.ly/h2csstuy"]
-        ,
-        [How to Think Like a Computer Scientist,
-         "https://greenteapress.com/wp/think-java/"]
-        ,
-        [CodingBat,
-         "https://codingbat.com/java"]
-        ,
-        [UWaterloo Visualizer,
-         "https://cscircles.cemc.uwaterloo.ca//java_visualize/"]
-    ]
+course: apcs
 ---
 
-but java tho
+Stuyvesant's Advanced Placement Computer Science course is one year long. The first semester covers the basics of object oriented programming in Java and prepares students for more advanced data structures and algorithms to be covered in the second semester.
+
+Stuyvesant's second semester of AP Computer Science covers advanced data structures and algorithms that are beyond the AP exam. Many were part of the more rigorous but discontinued APCS AB exam. Topics form this semester include (but are not limited to) linked lists, stacks, queues, trees, quick sort, mergesort, and A*.

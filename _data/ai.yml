@@ -1,0 +1,9 @@
+faculty:
+  - name: Brooks
+    url: #
+
+resources:
+  - name: How to CompSci@Stuy
+    url: https://bit.ly/h2csstuy
+  - name: textbook resources page
+    url: http://aima.cs.berkeley.edu/instructors.html

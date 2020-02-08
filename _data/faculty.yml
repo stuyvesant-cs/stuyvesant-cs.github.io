@@ -1,5 +1,18 @@
-- title: Dyrland-Weaver
-  url: /about
-- title: Mykolyk
-  url: /courses
-
+- name: Peter Brooks
+  email: p@b
+  classes: Intro to Computer Science - Full Year, Artificial Intelligence
+- name: JonAlf Dyrland-Weaver
+  email: dw@stuy.edu
+  classes: Intro to Computer Science - Full Year, Computer Graphics
+- name: David Holmes
+  email: d@h
+  classes: Intro to Computer Science - 1 Semester
+- name: Rick Platek
+  email: r@p
+  classes: AP Computer Science A
+- name: Irene Mouzakitis
+  email: i@m
+  classes: Intro to Computer Science - Full Year
+- name: Topher Mykolyk
+  email: mykolyk@stuy.edu
+  classes: Intro to Computer Science - 1 semester, Software Development

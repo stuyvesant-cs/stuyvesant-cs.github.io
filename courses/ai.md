@@ -5,18 +5,7 @@
 layout: course
 title: "Aritificial Intelligence"
 permalink: /courses/ai
-faculty:
-    [
-        [Brooks, "https://xkcd.com"]
-    ]
-resources: #empty lists will break liquid
-    [
-        [How to CompSci@Stuy,
-         "https://bit.ly/h2csstuy"]
-        ,
-        [textbook resources page,
-        "http://aima.cs.berkeley.edu/instructors.html"]
-    ]
+course: ai
 ---
 
 the robots are coming
