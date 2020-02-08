@@ -29,13 +29,13 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 {% for sublink in link.sublinks %}
-                  <li><a href = "{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                  <li><a href = "{{ sublink.url | relative_url }}">{{ sublink.title }}</a></li>
                 {% endfor %}
               </ul>
             </li>
             {% else %}
             <li class = "{{ class }}">
-              <a href = "{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+              <a href = "{{ link.url | relative_url }}">{{ link.title }}</a>
             </li>
             {% endif %}
       {% endfor %}
