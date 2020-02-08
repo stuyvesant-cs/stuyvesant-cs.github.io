@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <div class="post-content">
+    <ul>
+      {%- for facmember in site.data.faculty -%}
+      <li>
+        {{ facmember.name }}
+        <ul>
+          <li>
+            <a target="_blank"
+            rel="noopener noreferrer"
+            href="mailto:{{ facmember.email }}">
+            {{ facmember.email }}
+            </a>
+          </li>
+          <li> {{ facmember.classes }} </li>
+        </ul>
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  </div>
+
+</article>
