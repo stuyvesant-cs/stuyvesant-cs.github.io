@@ -27,6 +27,25 @@ layout: default
     <h2>Resources</h2>
     <ul>
       {%- for res in site.data[page.course].resources -%}
+      {% if res.sublinks %}
+      <li> <span>{{ res.name }}</span>
+        <ul>
+          {%- for subres in res.sublinks -%}
+          <li>
+            {% if subres.info %}
+            {{ subres.info | escape g}}
+            {% else %}
+            <a target="_blank"
+               rel="noopener noreferrer"
+               href= "{{ subres.url }}">
+              {{ subres.name }}
+            </a>
+            {% endif %}
+          </li>
+          {%- endfor -%}
+        </ul>
+      </li>
+      {% else %}
       <li>
         <a target="_blank"
            rel="noopener noreferrer"
@@ -34,6 +53,7 @@ layout: default
           {{ res.name }}
         </a>
       </li>
+      {% endif %}
       {%- endfor -%}
     </ul>
   </div>

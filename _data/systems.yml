@@ -1,0 +1,49 @@
+faculty:
+  - name: Dyrland-Weaver
+    url: http://www.xkcd.com
+
+resources:
+  - name: How to CompSci@Stuy
+    url: https://bit.ly/h2csstuy
+  - name: Syllabus
+    url: /assets/syllabi/systems.pdf
+  - name: Markdown help
+    url: https://daringfireball.net/projects/markdown/basics
+  - name: Emacs Stuff
+    sublinks:
+      - name: Z's using emacs series
+        url: http://cestlaz.github.io/stories/emacs/
+      - name: emacs rocks
+        url: emacsrocks.com
+  - name: Debugging Stuff
+    sublinks:
+      - name: gdb tutorial
+        url: http://www.unknownroad.com/rtfm/gdbtut/
+      - name: valgrind tutorial
+        url: http://valgrind.org/docs/manual/quick-start.html
+      - name: To use these utilities on a mac, you may need to follow these instructions
+        url: https://gcc.gnu.org/onlinedocs/gcc-4.8.1/gnat_ugn_unw/Codesigning-the-Debugger.html
+  - name: Linux Resources
+    sublinks:
+      - name: Ubuntu
+        url: http://www.ubuntu.com/download/ubuntu/download
+      - name: wubi
+        url: http://www.ubuntu.com/download/ubuntu/windows-installer
+  - name: Mac Resources
+    sublinks:
+      - info: Mac OSX is built off of a linux style base system (BSD Unix), which makes compiling and running source for linux programs easier on the mac without having to install Ubuntu. Note that there are some differences between the OSX system libraries and the linux ones. Usually, the OSX compiler is less forgiving the the Ubuntu one.
+      - info: If you have OSX version 10.6 or later, you should be able to use the Mac App Store to find Xcode and install it for free.
+      - info: "You will need to install the command line tools after Xcode installs, this is easy, just open a terminal and enter: $ xcode-select --install"
+      - name:  x11, the linux style windowing environment
+        url: http://xquartz.macosforge.org/landing/
+      - name: Homebrew
+        url: http://brew.sh
+      - info: Homebrew allows you to install linux style applications via the Mac OS terminal application, it is not necessary, but can be very useful. You must have the Apple Developer Tools installed in order to use Homebrew.
+  - name: Windows Resources
+    sublinks:
+      - name: Wubi
+        url: http://www.ubuntu.com/download/desktop/windows-installer
+      - info: Run ubuntu as a separate application in windows - not a virtual machine
+      - name: cygwin
+        url: http://www.cygwin.com/
+      - info: Cygwin installs linux library functions onto your windows computer. It is not a full linux version, and can be confusing to install/use. Installing and using Ubuntu in some way is highly recommended.

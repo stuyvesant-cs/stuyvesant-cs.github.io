@@ -7,18 +7,9 @@
 layout: course
 title: "Systems-Level Programming and Nerd Culture, Part I"
 permalink: /courses/systems
-faculty:
-    [
-        [Dyrland-Weaver, "https://xkcd.com"]
-    ]
-resources: #empty lists will break liquid
-    [
-        [How to CompSci@Stuy,
-         "https://bit.ly/h2csstuy"]
-        ,
-        [foo, "https://bit.ly/h2csstuy"]
-    ]
+course: systems
 ---
 
-Someone set us up the forkbomb.
-All your base are belong to us.
+Systems Level Programming covers the C programming language and development in a linux environment. Over the course of the semester students will learn how to control the main components of a computer (memory, storage, input/output, processor) at a low level. Over the course of the semester students will write a terminal shell as well as network server and client programs.
+
+AP Computer Science is a prerequisite for Systems Level Programming.

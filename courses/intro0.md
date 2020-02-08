@@ -5,30 +5,7 @@
 layout: course
 title: "Introduction to Computer Science (1 term)"
 permalink: /courses/intro0
-faculty:
-    [
-        [Brooks, "http://bert.stuy.edu/pbrooks/"]
-        ,
-        [Dyrland-Weaver, "https://xkcd.com"]
-        ,
-        [Holmes, "https://xkcd.com"]
-        ,
-        [Mouzakitis, "https://xkcd.com"]
-        ,
-        [Mykolyk, "https://xkcd.com"]
-    ]
-resources:
-    [
-        [How to CompSci@Stuy,
-         "https://bit.ly/h2csstuy"]
-        ,
-        [Racket, "https://racket-lang.org"]
-        ,
-        [NetLogo, "https://ccl.northwestern.edu/netlogo/"]
-		,
-        [Online Racket interpreter,
-         "https://www.wescheme.org/openEditor"]
-    ]
+course: intro0
 ---
 
-learn cs woo! is the best
+Stuyvesant's first semester of computer science introduces students to many major concepts in the field all while learning how to program. The course is split between Racket (formerly Scheme) and NetLogo. Students are given a strong foundation in computer science including an introduction to more advanced topics like recursion, state machines and cellular automata. The course culminates in a final project written in NetLogo.

@@ -1,0 +1,19 @@
+faculty:
+  - name: Mykolyk
+    url: https://stuyvesant-cs.github.io/softdev-mykolyk
+
+resources:
+  - name: How to CompSci@Stuy
+    url: https://bit.ly/h2csstuy
+  - name: Python
+    url: https://www.python.org/
+  - name: flask
+    url: https://flask.palletsprojects.com/en/1.1.x/
+  - name: How to link a submodule
+    url: https://docs.google.com/document/d/e/2PACX-1vRs7Y0ZpMnVKV8_qIlozJvZoOH80A5OlfIOVUIghjVhz448LOgTFHhskzJ6V_wv8BjEk844OlXz40PM/pub
+  - name: Ohai emacs
+    url: https://github.com/bodil/ohai-emacs
+  - name: Zamansky emacs resources
+    url: https://cestlaz.github.io/stories/emacs/
+  - name: on GitHub Markdown
+    url: https://daringfireball.net/projects/markdown/basics
