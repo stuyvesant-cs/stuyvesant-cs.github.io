@@ -18,7 +18,7 @@ email: dw@stuy.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Stuyvesant High School offers a modern and thorough Computer Science education, providing one of the best programs in the nation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.stuycs.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.stuycs.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
