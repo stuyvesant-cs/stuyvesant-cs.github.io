@@ -1,6 +1,9 @@
 - name: Peter Brooks
   email: pbrooks@stuy.edu
   classes: Intro to Computer Science - Full Year, Artificial Intelligence
+- name: Glen Chew
+  email: Gchew@stuy.edu
+  classes: AP Computer Science A
 - name: JonAlf Dyrland-Weaver
   email: dw@stuy.edu
   classes: Intro to Computer Science - Full Year, Computer Graphics
@@ -8,7 +11,7 @@
   email: mr@DavidMHolmes.net
   classes: Intro to Computer Science - 1 Semester
 - name: Rick Platek
-  email: r@p
+  email: rick.platek@stuy.edu
   classes: AP Computer Science A
 - name: Irene Mouzakitis
   email: imouzakitis@stuy.edu
