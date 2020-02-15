@@ -3,6 +3,8 @@ faculty:
     url: http://bert.stuy.edu/pbrooks/spring2020/materials/ai/ai-homepage.htm
 
 resources:
+  - name: Syllabus and various resources and readings
+    url: http://bert.stuy.edu/pbrooks/ai/resources/Syllabus.html
   - name: How to CompSci@Stuy
     url: https://bit.ly/h2csstuy
   - name: textbook resources page
