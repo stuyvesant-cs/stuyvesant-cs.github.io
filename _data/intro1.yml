@@ -9,6 +9,8 @@ faculty:
 resources:
   - name: How to CompSci@Stuy
     url: https://bit.ly/h2csstuy
+  - name: Thonny (python IDE)
+    url: https://thonny.org
   - name: Python
     url: https://www.python.org/
   - name: TextMate (mac text editor)
