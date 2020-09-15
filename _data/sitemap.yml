@@ -1,9 +1,9 @@
 - title: Courses
   url: /courses
   sublinks:
-    - title: Intro to Computer Science I
+    - title: Intro to Computer Science (Single Semester)
       url: /courses/intro0
-    - title: Intro to Computer Science II
+    - title: Intro to Computer Science (Full Year)
       url: /courses/intro1
     - title: Advanced Placement Computer Science A
       url: /courses/apcs

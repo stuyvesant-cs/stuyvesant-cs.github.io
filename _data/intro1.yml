@@ -2,9 +2,11 @@ faculty:
   - name: Brooks
     url: http://bert.stuy.edu/pbrooks/spring2020/materials/intro-year-2/intro-year-2-homepage.htm
   - name: Dyrland-Weaver
-    url: https://stuyvesant-cs.github.io/intro1-dw
-  - name: Mouzakitis
-    url: https://classroom.google.com/c/NjAyMTUxMjI5MDZa
+    url: https://stuyvesant-cs.github.io/intro00-dw
+  - name: Holmes
+    url: http://www.davidmholmes.net/Stuy/
+  - name: Mykolyk
+    url: http://xkcd.com
 
 resources:
   - name: How to CompSci@Stuy

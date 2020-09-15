@@ -1,9 +1,10 @@
 faculty:
-  - name: Mykolyk
-    url: http://stuyvesant-cs.github.io/intro0-mykolyk
   - name: Holmes
     url: http://www.davidmholmes.net/Stuy/
-
+  - name: Mouzakitis
+    url: https://xkcd.com
+  - name: Platek
+    url: https://xkcd.com
 resources:
   - name: How to CompSci@Stuy
     url: https://bit.ly/h2csstuy

@@ -1,8 +1,8 @@
 faculty:
   - name: Platek
     url: https://classroom.google.com
-  - name: Chew
-    url: https://classroom.google.com
+  - name: Konstantinovich
+    url: http://xkcd.com
 
 resources:
   - name: How to CompSci@Stuy

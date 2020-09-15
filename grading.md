@@ -12,10 +12,10 @@ The following criteria will be used in determining the grade a student earns in 
 
 | Criteria                     | Weight     |
 | ---------------------------- | ---------- |
-|  Exams, Quizzes and Projects | 75% - 80%  |
-|  Homework                    | 5% - 20%   |
-|  Class Participation         | up to 15%  |
-|  Lab Work                    | up to 15%  |
+|  Exams, Quizzes and Projects | 20 - 60%   |
+|  Homework                    |   20%      |
+|  Class Participation & Work  |   20%      |
+|  Lab Work                    | up to 20%  |
 
 * Individual teachers may announce more precise percentage limits in class.
 * A minimum of two announced full period exams or their equivalent will be given each marking period.
