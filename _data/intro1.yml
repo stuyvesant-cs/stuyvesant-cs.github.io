@@ -6,7 +6,7 @@ faculty:
   - name: Holmes
     url: http://www.davidmholmes.net/Stuy/
   - name: Mykolyk
-    url: http://xkcd.com
+    url: https://stuyvesant-cs.github.io/intro0-mykolyk/
 
 resources:
   - name: How to CompSci@Stuy
@@ -25,5 +25,5 @@ resources:
     url: https://notepad-plus-plus.org
   - name: puTTY (lightweight SSH client for win)
     url: https://www.putty.org/
-  - name: Repl.it
+  - name: repl.it
     url: https://repl.it/
