@@ -5,6 +5,8 @@ faculty:
 resources:
   - name: How to CompSci@Stuy
     url: https://bit.ly/h2csstuy
+  - name: Syllabus
+    url: /assets/syllabi/softdev0.pdf
   - name: Python
     url: https://www.python.org/
   - name: flask
