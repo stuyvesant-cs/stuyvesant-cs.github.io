@@ -11,6 +11,14 @@ faculty:
 resources:
   - name: How to CompSci@Stuy
     url: https://bit.ly/h2csstuy
+  - name: Syllabus
+    url: /assets/syllabi/intro1_term0.pdf
+  - name: Racket
+    url: https://racket-lang.org
+  - name: NetLogo
+    url: https://ccl.northwestern.edu/netlogo/
+  - name: Online Racket interpreter
+    url: https://www.wescheme.org/openEditor
   - name: Thonny (python IDE)
     url: https://thonny.org
   - name: Python
